@@ -1,8 +1,10 @@
 # ServerMonitor
 
-サーバーにpingを飛ばしてサーバーの状態(advertisement)を取得し、
-いい感じに表示するプログラムです。
-統合版のみ対応しています。
+サーバーにpingを飛ばしてサーバーの状態(advertisement)を取得し、  
+いい感じに表示するプログラムです。  
+統合版のみ対応しています。  
+
+![image](https://user-images.githubusercontent.com/70795425/220373069-4778f23c-7160-45ba-9490-bc83417bb3bd.png)
 
 ## Config
 
