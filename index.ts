@@ -307,6 +307,6 @@ setInterval(() => {
 
 	globalEventRenderer.tick()
 	globalEventRenderer.render()
-}, 1000 * (0.025))
+}, config.render_rate)
 
 
